@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/valentina_pokemon/static/css/main.1c5517d2.css",
-    "main.js": "/valentina_pokemon/static/js/main.aa494770.js",
+    "main.js": "/valentina_pokemon/static/js/main.b2ea6662.js",
     "index.html": "/valentina_pokemon/index.html",
     "main.1c5517d2.css.map": "/valentina_pokemon/static/css/main.1c5517d2.css.map",
-    "main.aa494770.js.map": "/valentina_pokemon/static/js/main.aa494770.js.map"
+    "main.b2ea6662.js.map": "/valentina_pokemon/static/js/main.b2ea6662.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5517d2.css",
-    "static/js/main.aa494770.js"
+    "static/js/main.b2ea6662.js"
   ]
 }
