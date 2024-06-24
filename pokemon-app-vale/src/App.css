@@ -1,0 +1,44 @@
+/* src/App.css */
+
+body {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa; /* Color de fondo */
+  background-image: url('/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.jpg'); /* Ruta de tu imagen de fondo */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Para que el fondo no se mueva al hacer scroll */
+  color: #333; /* Color de texto global */
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+/* Transiciones de página */
+.page-enter {
+  opacity: 0;
+}
+
+.page-enter-active {
+  opacity: 1;
+  transition: opacity 300ms ease-in-out;
+}
+
+.page-exit {
+  opacity: 1;
+}
+
+.page-exit-active {
+  opacity: 0;
+  transition: opacity 300ms ease-in-out;
+}
