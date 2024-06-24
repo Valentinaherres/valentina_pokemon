@@ -50,7 +50,7 @@ import i18n from './i18n';
 function App() {
   return (
     <I18nextProvider i18n={i18n}>
-      <Router basename="/valentina_pokemon/pokemon-app-vale">
+      <Router>
         <PokemonProvider>
           <Header />
           <Routes>
