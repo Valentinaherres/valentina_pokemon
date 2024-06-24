@@ -3,6 +3,8 @@ This is a repository in order to publish the internship test for Hatchworks
 
 I chose the Pokémon API because I like Pokemon
 
+URL: currently loading this URL: https://valentinaherres.github.io/valentina_pokemon/
+
 This application let you view various Pokémon, view details about them, add new Pokémon, and manage your profile.
 
 Features
@@ -32,3 +34,5 @@ then
 
 Credits
 This app was created by Valentina Herrera Sánchez.
+
+
