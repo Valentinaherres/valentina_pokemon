@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokemon-app-vale/static/css/main.1c5517d2.css",
+    "main.js": "/pokemon-app-vale/static/js/main.1e24956c.js",
+    "index.html": "/pokemon-app-vale/index.html",
+    "main.1c5517d2.css.map": "/pokemon-app-vale/static/css/main.1c5517d2.css.map",
+    "main.1e24956c.js.map": "/pokemon-app-vale/static/js/main.1e24956c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c5517d2.css",
+    "static/js/main.1e24956c.js"
+  ]
+}
