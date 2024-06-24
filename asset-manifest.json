@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/valentina_pokemon/static/css/main.7aa376ef.css",
-    "main.js": "/valentina_pokemon/static/js/main.f4963de5.js",
-    "static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.jpg": "/valentina_pokemon/static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.61c77bcaf9224be5c107.jpg",
-    "index.html": "/valentina_pokemon/index.html",
-    "main.7aa376ef.css.map": "/valentina_pokemon/static/css/main.7aa376ef.css.map",
-    "main.f4963de5.js.map": "/valentina_pokemon/static/js/main.f4963de5.js.map"
+    "main.css": "/static/css/main.64c3fba3.css",
+    "main.js": "/static/js/main.65ee6459.js",
+    "static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.jpg": "/static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.61c77bcaf9224be5c107.jpg",
+    "index.html": "/index.html",
+    "main.64c3fba3.css.map": "/static/css/main.64c3fba3.css.map",
+    "main.65ee6459.js.map": "/static/js/main.65ee6459.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa376ef.css",
-    "static/js/main.f4963de5.js"
+    "static/css/main.64c3fba3.css",
+    "static/js/main.65ee6459.js"
   ]
 }
