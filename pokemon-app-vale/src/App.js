@@ -35,7 +35,8 @@
 
 // src/App.js
 import React from 'react';
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+//import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { Routes, Route, HashRouter } from "react-router-dom";
 import { PokemonProvider } from './context/PokemonContext';
 import PokemonList from './components/PokemonList';
 import PokemonDetails from './components/PokemonDetails';
@@ -50,7 +51,7 @@ import i18n from './i18n';
 function App() {
   return (
     <I18nextProvider i18n={i18n}>
-      <Router basename="/valentina_pokemon/pokemon-app-vale">
+      <HashRouter basename="/valentina_pokemon/pokemon-app-vale">
         <PokemonProvider>
           <Header />
           <Routes>
@@ -61,7 +62,7 @@ function App() {
             <Route path="/login" element={<Login />} />
           </Routes>
         </PokemonProvider>
-      </Router>
+      </HashRouter>
     </I18nextProvider>
   );
 }

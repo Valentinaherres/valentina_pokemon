@@ -11,7 +11,7 @@
       "predeploy": "npm run build",
       "deploy": "gh-pages -d build"
     },
-    "homepage": "http://Valentinaherres.github.io/",
+    "homepage": "http://Valentinaherres.github.io/valentina_pokemon/#",
     "dependencies": {
       "axios": "^0.21.1",
       "firebase": "^8.2.3",
