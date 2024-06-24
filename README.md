@@ -5,6 +5,11 @@ I chose the Pokémon API because I like Pokemon
 
 URL: currently loading this URL: https://valentinaherres.github.io/valentina_pokemon/
 
+AI Tools used: 
+Since I´m currently studying for Data Analysis and WebPages is not my strong area I used Prompts related to React and Javascript in ChatGPT in order to have the commands for the installation of packages, Solving version issues with some lines of code and how to deploy the app in Git.
+
+other webPages used: StackOverFlow
+
 This application let you view various Pokémon, view details about them, add new Pokémon, and manage your profile.
 
 Features
