@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 
 const UserProfile = () => {
   const [user, setUser] = useState({
-    name: 'Valentina Herrera Sánchez',
+    name: 'Valentina Herrera Sanchez',
     email: 'vherress@gmail.com',
     bio: 'Pokémon Trainer from Cartago Town',
   });
