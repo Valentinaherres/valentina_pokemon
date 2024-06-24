@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/valentina_pokemon/pokemon-app-vale/static/css/main.1c5517d2.css",
-    "main.js": "/valentina_pokemon/pokemon-app-vale/static/js/main.cc9b2183.js",
-    "index.html": "/valentina_pokemon/pokemon-app-vale/index.html",
-    "main.1c5517d2.css.map": "/valentina_pokemon/pokemon-app-vale/static/css/main.1c5517d2.css.map",
-    "main.cc9b2183.js.map": "/valentina_pokemon/pokemon-app-vale/static/js/main.cc9b2183.js.map"
+    "main.css": "/valentina_pokemon/static/css/main.1c5517d2.css",
+    "main.js": "/valentina_pokemon/static/js/main.aa494770.js",
+    "index.html": "/valentina_pokemon/index.html",
+    "main.1c5517d2.css.map": "/valentina_pokemon/static/css/main.1c5517d2.css.map",
+    "main.aa494770.js.map": "/valentina_pokemon/static/js/main.aa494770.js.map"
   },
   "entrypoints": [
     "static/css/main.1c5517d2.css",
-    "static/js/main.cc9b2183.js"
+    "static/js/main.aa494770.js"
   ]
 }
