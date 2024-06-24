@@ -3,9 +3,9 @@ import React, { useState } from 'react';
 
 const UserProfile = () => {
   const [user, setUser] = useState({
-    name: 'Ash Ketchum',
-    email: 'ash@example.com',
-    bio: 'Pokémon Trainer from Pallet Town',
+    name: 'Valentina Herrera Sánchez',
+    email: 'vherress@gmail.com',
+    bio: 'Pokémon Trainer from Cartago Town',
   });
 
   const [editing, setEditing] = useState(false);
