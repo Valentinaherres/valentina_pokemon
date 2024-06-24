@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/valentina_pokemon/static/css/main.7aa376ef.css",
-    "main.js": "/valentina_pokemon/static/js/main.d7ffc061.js",
-    "static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.jpg": "/valentina_pokemon/static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.61c77bcaf9224be5c107.jpg",
+    "main.css": "/valentina_pokemon/static/css/main.1c5517d2.css",
+    "main.js": "/valentina_pokemon/static/js/main.cd7c0c91.js",
     "index.html": "/valentina_pokemon/index.html",
-    "main.7aa376ef.css.map": "/valentina_pokemon/static/css/main.7aa376ef.css.map",
-    "main.d7ffc061.js.map": "/valentina_pokemon/static/js/main.d7ffc061.js.map"
+    "main.1c5517d2.css.map": "/valentina_pokemon/static/css/main.1c5517d2.css.map",
+    "main.cd7c0c91.js.map": "/valentina_pokemon/static/js/main.cd7c0c91.js.map"
   },
   "entrypoints": [
-    "static/css/main.7aa376ef.css",
-    "static/js/main.d7ffc061.js"
+    "static/css/main.1c5517d2.css",
+    "static/js/main.cd7c0c91.js"
   ]
 }
