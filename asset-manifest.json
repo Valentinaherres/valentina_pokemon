@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.64c3fba3.css",
-    "main.js": "/static/js/main.65ee6459.js",
+    "main.js": "/static/js/main.3095e683.js",
     "static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.jpg": "/static/media/yellow-meowth-cool-pokemon-qj14grd41t2vcumf.61c77bcaf9224be5c107.jpg",
     "index.html": "/index.html",
     "main.64c3fba3.css.map": "/static/css/main.64c3fba3.css.map",
-    "main.65ee6459.js.map": "/static/js/main.65ee6459.js.map"
+    "main.3095e683.js.map": "/static/js/main.3095e683.js.map"
   },
   "entrypoints": [
     "static/css/main.64c3fba3.css",
-    "static/js/main.65ee6459.js"
+    "static/js/main.3095e683.js"
   ]
 }
